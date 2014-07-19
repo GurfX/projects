@@ -1,5 +1,6 @@
 Projects
 ========
+<<<<<<< HEAD
 
 /Games
 -
@@ -12,3 +13,5 @@ where i test random code ect.
 /Completed
 -
 where my completed projects are
+=======
+>>>>>>> origin/master
